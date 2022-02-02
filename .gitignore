@@ -1,5 +1,6 @@
 # privacy
 images/students/*
+flashcard_csvs/students/*
 
 # History files
 .Rhistory
